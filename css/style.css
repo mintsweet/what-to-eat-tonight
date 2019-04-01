@@ -3,10 +3,13 @@ body {
 }
 
 .main {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
   padding-top: 100px;
-  height: 100vh;
   background: #0abab5;
-  box-sizing: border-box;
 }
 
 h1 {
